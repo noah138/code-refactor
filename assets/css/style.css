@@ -49,8 +49,8 @@ li {
     font-size: 20px;
 }
 
-/* main image */
-.main-image {
+/* background image */
+.background-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -80,6 +80,8 @@ h2 {
     float: right;
     margin-left: 25px;
 }
+
+/* consolidating like formatting */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -91,6 +93,7 @@ h2 {
     color: #ffffff;
 }
 
+/* consolidating like formatting */
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
@@ -114,6 +117,7 @@ h3 {
     text-align: center;
 }
 
+/* consolidating like formatting */
 .aside-lead,
 .aside-brand,
 .aside-cost {
@@ -121,6 +125,7 @@ h3 {
     color: #ffffff;
 }
 
+/* consolidating like formatting */
 .aside-lead img,
 .aside-brand img,
 .aside-cost img
@@ -131,7 +136,10 @@ h3 {
 }
 
 /* footer */
+/* Not visible in the mock, but still taking up page space*/
 .footer {
+    visibility: hidden;
+    width: 75%;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
