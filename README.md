@@ -21,4 +21,4 @@ Horiseon and the team of instructors at the UW Full-Time Online Coding Boot 2022
 
 ## License
 
-Please refer to the liscense in the repo.
+N/A
